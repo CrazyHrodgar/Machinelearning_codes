@@ -1,7 +1,7 @@
 # Machinelearning_codes
 Códigos de las prácticas del curso de Machine Learning para SerInge
 
-Updates 27/08/2021
+# Updates
 
 Se añadieron las nuevas prácticas de clasificación y de regresión.
 Se añadió el archivo wine_classification.ipynb que es la práctica de clasificación de vinos con ML.
